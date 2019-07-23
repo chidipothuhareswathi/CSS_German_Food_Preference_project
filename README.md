@@ -20,7 +20,11 @@ dbname= "test_food_preference" # Database name to access data
 Python3 notebook,pandas,numpy,mysql.connector,datetime,matplotlib.pyplot
 
 #### Input Files :
-In the jupyter note book , please keep data files on mention in the data folder on the same note book file
+In the jupyter note book , please keep data files  in the same note book file.
+The Input files are given in the Data folder
+
+#### OutPut graphs:
+Sample output graphs are present in the Output folder(Just for Reference)
 
 
 
